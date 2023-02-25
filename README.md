@@ -1,4 +1,4 @@
-# Facility Management System - open source faciltity booking system for schools.
+# Facility Management System - open source facility booking system for schools.
 
 By Mark Edward Olango.
 
